@@ -1,0 +1,3 @@
+{
+  "db": "mongodb://service:Admin411@ds030827.mlab.com:30827/graphql-db"
+}
